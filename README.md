@@ -1,429 +1,283 @@
 ---
-title: "👋 关于 shimu-ui"
+title: "🌟 shimu-ui 的 GitHub 个人主页"
 ---
 
-## 嘿，你好！我是 shimu-ui ✨
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6CF&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+World!+%F0%9F%8C%9D;Welcome+to+my+GitHub!+%F0%9F%8B%80;Let's+code+together!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-非常高兴能在这里与你相遇！我是一个充满好奇心的**全栈开发者** 🚀，热衷于探索技术的前沿领域，并将所学转化为实用的解决方案。
-
-建立这个小站，主要是想用它来**分享我的技术心得** 📚，并**记录下学习过程中的点点滴滴** ✍️。如果我的文字能给你带来一丁点启发或者帮助，那将是我莫大的荣幸！
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shimu-ui/count.svg" alt="访问计数器" />
+</div>
 
 ---
 
-### 🛠️ 技术栈概览
+## 🚀 关于我
 
-<div style="text-align: center; margin: 40px 0 20px 0;">
-  <h3 style="color: #6cf; font-size: 24px; margin-bottom: 10px;">💫 我的技术栈</h3>
-  <p style="color: #888; font-size: 14px; margin: 0;"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shimu-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&icon_color=6CF&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
-<div id="tech-3d-container" style="width: 100%; height: 500px; position: relative; margin: 30px 0; background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%); border-radius: 16px; overflow: hidden; box-shadow: 0 20px 40px rgba(0,0,0,0.3);">
-  <canvas id="tech-canvas" style="width: 100%; height: 100%;"></canvas>
-  
-  <div id="tech-info" style="position: absolute; top: 30px; left: 30px; color: #ffffff; font-size: 14px; pointer-events: none; opacity: 0; transition: all 0.3s ease; background: rgba(0,0,0,0.8); padding: 15px; border-radius: 10px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.1);">
-    <div id="tech-name" style="font-weight: bold; font-size: 16px; margin-bottom: 5px; color: #6cf;"></div>
-    <div id="tech-desc" style="color: #cccccc;"></div>
-  </div>
-  
-  <div style="position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%); color: #888; font-size: 12px; text-align: center;">
-    <div>🖱️ 悬停查看技术详情</div>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimu-ui&theme=radical&hide_border=true&background=0D1117&stroke=6CF&ring=6CF&fire=6CF&currStreakNum=FFFFFF&currStreakLabel=6CF" alt="GitHub Streak" />
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+---
+
+### 🎯 我是谁？
+
+> **全栈开发者** | **区块链爱好者** | **AI探索者** | **开源贡献者**
+
+我是一名充满好奇心的全栈开发者，热衷于探索技术的前沿领域。从后端到前端，从区块链到人工智能，我都在不断学习和实践。相信技术能够改变世界，代码能够连接未来！
+
+---
+
+### 🛠️ 技术栈
+
+<div align="center">
+  <h3>💫 我的技术武器库</h3>
+</div>
+
+#### 🚀 后端技术
+<div align="center">
+  <img src="https://img.shields.io/badge/-Node.js-6DB33F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+</div>
+
+#### 🎨 前端技术
+<div align="center">
+  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</div>
+
+#### ⛓️ 区块链技术
+<div align="center">
+  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/-Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/-Hardhat-F16822?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat" />
+</div>
+
+#### 🗄️ 数据库
+<div align="center">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
+
+#### ☁️ 云服务与部署
+<div align="center">
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-阿里云-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="阿里云" />
+</div>
+
+---
+
+### 🌟 精选项目
+
+<div align="center">
+  <h3>🚀 我的作品集</h3>
+</div>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📝 个人博客系统</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=my-blog&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&icon_color=6CF" width="100%" alt="个人博客系统"/>
+        </a>
+        <p align="center">
+          🚀 基于 Node.js + Neon + Vercel 的全栈博客<br/>
+          ✨ 支持动态内容管理和 Live2D 看板娘
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔗 区块链数字证书系统</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=blockchain-certificates&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&icon_color=6CF" width="100%" alt="区块链数字证书系统"/>
+        </a>
+        <p align="center">
+          ⛓️ 基于以太坊的模块化数字证书 DApp<br/>
+          🔐 采用 ERC-721 标准实现证书全生命周期管理
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌿 供应链溯源平台</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=supply-chain-trace&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&icon_color=6CF" width="100%" alt="供应链溯源平台"/>
+        </a>
+        <p align="center">
+          🏢 基于 FISCO BCOS 的企业级溯源平台<br/>
+          📊 实现中药材从种植到物流的全流程透明化管理
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏮 文旅助农小程序</h3>
+      <div align="center">
+        <a href="#" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=cultural-tourism-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&icon_color=6CF" width="100%" alt="文旅助农小程序"/>
+        </a>
+        <p align="center">
+          🚀 融合区块链、AR、AI等前沿技术<br/>
+          📱 实现农产品溯源、AR导览、AI客服等创新功能
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 我的贡献统计
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimu-ui&theme=radical&hide_border=true&bg_color=0D1117&color=6CF&line=6CF&point=FFFFFF" alt="贡献图表" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimu-ui&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&layout=compact&langs_count=8" alt="最常用语言" />
+</div>
+
+---
+
+### 🎯 我的目标
+
+- [ ] 🦀 深入学习 Rust 和系统编程
+- [ ] 🤖 探索 AI/ML 领域，特别是大语言模型的应用
+- [ ] 🚀 尝试更多有趣的技术栈和框架
+- [ ] 🌍 为开源社区贡献更多优质代码
+- [ ] 📚 分享技术心得，帮助更多人成长
+
+---
+
+### 📬 联系我
+
+<div align="center">
+  <a href="https://github.com/shimu-ui" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:shimuui280@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://space.bilibili.com/3494375472499132" target="_blank">
+    <img src="https://img.shields.io/badge/-Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+  </a>
+</div>
+
+---
+
+### 🎨 我的座右铭
+
+<div align="center">
+  <h2>💻 "代码改变世界，技术连接未来" 🚀</h2>
+</div>
+
+---
+
+### 🌈 动态表情
+
+<div align="center">
+  <div id="dynamic-emoji" style="font-size: 120px; margin: 40px 0; animation: bounce 2s infinite;"></div>
+</div>
+
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes rainbow {
+  0% { color: #ff0000; }
+  16% { color: #ff8000; }
+  33% { color: #ffff00; }
+  50% { color: #00ff00; }
+  66% { color: #0080ff; }
+  83% { color: #8000ff; }
+  100% { color: #ff0000; }
+}
+</style>
+
 <script>
 (function() {
-  const container = document.getElementById('tech-3d-container');
-  const canvas = document.getElementById('tech-canvas');
-  const info = document.getElementById('tech-info');
-  const techName = document.getElementById('tech-name');
-  const techDesc = document.getElementById('tech-desc');
-
-  // 技术栈数据 - 可爱emoji版本
-  const techStack = [
-    { name: 'Node.js', category: 'backend', color: '#6db33f', desc: 'JavaScript 运行时环境', level: 90, emoji: '🟢' },
-    { name: 'Express.js', category: 'backend', color: '#ffffff', desc: 'Web 应用框架', level: 85, emoji: '⚡' },
-    { name: 'Flask', category: 'backend', color: '#000000', desc: 'Python Web 框架', level: 80, emoji: '🌶️' },
-    { name: 'Socket.IO', category: 'backend', color: '#010101', desc: '实时通信库', level: 75, emoji: '🔌' },
-    { name: 'Vue.js', category: 'frontend', color: '#42b883', desc: '渐进式 JavaScript 框架', level: 90, emoji: '💚' },
-    { name: 'React', category: 'frontend', color: '#61dafb', desc: '用户界面构建库', level: 85, emoji: '⚛️' },
-    { name: '微信小程序', category: 'mobile', color: '#07c160', desc: '移动应用开发', level: 85, emoji: '📱' },
-    { name: 'uni-app', category: 'mobile', color: '#ff6b35', desc: '跨平台开发框架', level: 80, emoji: '🔄' },
-    { name: 'Python', category: 'language', color: '#3776ab', desc: '高级编程语言', level: 90, emoji: '🐍' },
-    { name: 'Java', category: 'language', color: '#ed8b00', desc: '面向对象编程语言', level: 85, emoji: '☕' },
-    { name: 'Solidity', category: 'blockchain', color: '#363636', desc: '智能合约编程语言', level: 80, emoji: '🔗' },
-    { name: 'Ethereum', category: 'blockchain', color: '#627eea', desc: '区块链平台', level: 75, emoji: '⛓️' },
-    { name: 'AR技术', category: 'ai', color: '#ff6b6b', desc: '增强现实技术', level: 70, emoji: '👁️' },
-    { name: 'AI客服', category: 'ai', color: '#4ecdc4', desc: '人工智能应用', level: 75, emoji: '🤖' },
-    { name: 'OpenCV', category: 'ai', color: '#5c3ee8', desc: '计算机视觉库', level: 70, emoji: '📷' },
-    { name: 'PostgreSQL', category: 'database', color: '#336791', desc: '关系型数据库', level: 85, emoji: '🐘' },
-    { name: 'MongoDB', category: 'database', color: '#47a248', desc: '文档数据库', level: 80, emoji: '🍃' },
-    { name: 'MySQL', category: 'database', color: '#4479a1', desc: '关系型数据库', level: 85, emoji: '🐬' },
-    { name: 'Vercel', category: 'cloud', color: '#000000', desc: '云部署平台', level: 90, emoji: '🚀' },
-    { name: 'Neon', category: 'cloud', color: '#00d4aa', desc: 'Serverless Postgres', level: 85, emoji: '🟢' },
-    { name: '阿里云', category: 'cloud', color: '#ff6a00', desc: '云计算平台', level: 80, emoji: '☁️' },
-    { name: 'Docker', category: 'devops', color: '#2496ed', desc: '容器化平台', level: 75, emoji: '🐳' },
-    { name: 'Rust', category: 'language', color: '#ce422b', desc: '系统编程语言', level: 60, emoji: '🦀' }
-  ];
-
-  // Three.js 设置
-  const scene = new THREE.Scene();
-  const camera = new THREE.PerspectiveCamera(75, container.clientWidth / container.clientHeight, 0.1, 1000);
-  const renderer = new THREE.WebGLRenderer({ canvas: canvas, alpha: true, antialias: true });
+  const emojis = ['🚀', '🌟', '💫', '✨', '🎯', '🔥', '💻', '🎨', '⚡', '🎭', '🎪', '🎨', '🎬', '🎵', '🎮', '🎲', '🎯', '🎪', '🎨', '🎭'];
+  const emojiElement = document.getElementById('dynamic-emoji');
+  let currentIndex = 0;
   
-  renderer.setSize(container.clientWidth, container.clientHeight);
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
-
-  // 创建技术栈球体
-  const spheres = [];
-  const sphereGeometry = new THREE.SphereGeometry(0.3, 16, 16);
-
-  techStack.forEach((tech, index) => {
-    // 根据技能熟练度调整大小
-    const size = 1.2 + (tech.level / 100) * 1.8; // 1.2-3.0 范围
+  function changeEmoji() {
+    emojiElement.textContent = emojis[currentIndex];
+    emojiElement.style.animation = 'none';
+    emojiElement.offsetHeight; // 触发重排
+    emojiElement.style.animation = 'bounce 2s infinite';
     
-    // 创建emoji文本精灵
-    const canvas = document.createElement('canvas');
-    const context = canvas.getContext('2d');
-    canvas.width = 128;
-    canvas.height = 128;
+    // 随机添加其他动画效果
+    const effects = ['rotate 3s linear infinite', 'pulse 1.5s ease-in-out infinite', 'rainbow 3s linear infinite'];
+    const randomEffect = effects[Math.floor(Math.random() * effects.length)];
     
-    // 设置背景圆形
-    context.beginPath();
-    context.arc(64, 64, 60, 0, Math.PI * 2);
-    context.fillStyle = tech.color;
-    context.fill();
-    
-    // 添加发光效果
-    context.shadowColor = tech.color;
-    context.shadowBlur = 20;
-    context.fill();
-    
-    // 绘制emoji
-    context.font = '60px Arial';
-    context.textAlign = 'center';
-    context.textBaseline = 'middle';
-    context.shadowBlur = 0;
-    context.fillText(tech.emoji, 64, 64);
-    
-    // 创建纹理和材质
-    const texture = new THREE.CanvasTexture(canvas);
-    const material = new THREE.SpriteMaterial({ 
-      map: texture,
-      transparent: true,
-      opacity: 0.9
-    });
-    
-    const sprite = new THREE.Sprite(material);
-    sprite.scale.set(size, size, 1);
-    
-    // 创建螺旋分布
-    const angle = (index / techStack.length) * Math.PI * 4;
-    const radius = 6 + Math.sin(angle * 3) * 3;
-    const height = Math.cos(angle * 2) * 3 + Math.sin(angle * 4) * 1;
-    
-    sprite.position.x = Math.cos(angle) * radius;
-    sprite.position.y = height;
-    sprite.position.z = Math.sin(angle) * radius;
-    
-    sprite.userData = tech;
-    spheres.push(sprite);
-    scene.add(sprite);
-    
-    // 移除光环效果，保持简洁
-  });
-
-  // 添加动态连接线（箭头效果）
-  const lineMaterial = new THREE.LineBasicMaterial({ 
-    color: 0x4facfe, 
-    transparent: true, 
-    opacity: 0.4,
-    linewidth: 2
-  });
-
-  // 创建螺旋箭头连接
-  for (let i = 0; i < spheres.length; i++) {
-    const next = spheres[(i + 2) % spheres.length]; // 跳过相邻，连接间隔的球体
-    const current = spheres[i];
-    
-    // 创建曲线路径
-    const curve = new THREE.CubicBezierCurve3(
-      current.position,
-      new THREE.Vector3(
-        (current.position.x + next.position.x) / 2 + Math.sin(i) * 2,
-        (current.position.y + next.position.y) / 2 + Math.cos(i) * 2,
-        (current.position.z + next.position.z) / 2
-      ),
-      new THREE.Vector3(
-        (current.position.x + next.position.x) / 2 - Math.sin(i) * 2,
-        (current.position.y + next.position.y) / 2 - Math.cos(i) * 2,
-        (current.position.z + next.position.z) / 2
-      ),
-      next.position
-    );
-    
-    const points = curve.getPoints(50);
-    const geometry = new THREE.BufferGeometry().setFromPoints(points);
-    const line = new THREE.Line(geometry, lineMaterial);
-    scene.add(line);
-  }
-
-  // 光照系统
-  const ambientLight = new THREE.AmbientLight(0x404040, 0.6);
-  scene.add(ambientLight);
-
-  const directionalLight = new THREE.DirectionalLight(0xffffff, 0.8);
-  directionalLight.position.set(10, 10, 5);
-  scene.add(directionalLight);
-
-  camera.position.z = 15;
-
-  // 添加粒子效果
-  const particleCount = 100;
-  const particles = new THREE.BufferGeometry();
-  const particlePositions = new Float32Array(particleCount * 3);
-  const particleColors = new Float32Array(particleCount * 3);
-
-  for (let i = 0; i < particleCount; i++) {
-    const i3 = i * 3;
-    particlePositions[i3] = (Math.random() - 0.5) * 20;
-    particlePositions[i3 + 1] = (Math.random() - 0.5) * 20;
-    particlePositions[i3 + 2] = (Math.random() - 0.5) * 20;
-    
-    particleColors[i3] = Math.random() * 0.5 + 0.5;
-    particleColors[i3 + 1] = Math.random() * 0.5 + 0.5;
-    particleColors[i3 + 2] = Math.random() * 0.5 + 0.5;
-  }
-
-  particles.setAttribute('position', new THREE.BufferAttribute(particlePositions, 3));
-  particles.setAttribute('color', new THREE.BufferAttribute(particleColors, 3));
-
-  const particleMaterial = new THREE.PointsMaterial({
-    size: 0.1,
-    transparent: true,
-    opacity: 0.6,
-    vertexColors: true,
-    blending: THREE.AdditiveBlending
-  });
-
-  const particleSystem = new THREE.Points(particles, particleMaterial);
-  scene.add(particleSystem);
-
-  // 动画
-  let time = 0;
-  function animate() {
-    requestAnimationFrame(animate);
-    time += 0.002; // 降低动画速度
-
-    // emoji精灵动态浮动
-    spheres.forEach((sprite, index) => {
-      // 轻微的旋转动画
-      sprite.rotation.z += 0.01 + Math.sin(time + index) * 0.005;
-      
-      // 轻微浮动效果
-      sprite.position.y += Math.sin(time * 2 + index * 0.5) * 0.002;
-      
-      // 螺旋轨道运动
-      const angle = (index / spheres.length) * Math.PI * 4 + time * 0.4;
-      const radius = 6 + Math.sin(angle * 3) * 3;
-      const height = Math.cos(angle * 2) * 3 + Math.sin(angle * 4) * 1;
-      
-      sprite.position.x = Math.cos(angle) * radius;
-      sprite.position.z = Math.sin(angle) * radius;
-      sprite.position.y = height;
-      
-      // 轻微缩放效果
-      const scale = 1 + Math.sin(time * 1.5 + index) * 0.05;
-      sprite.scale.set(scale, scale, 1);
-    });
-
-    // 相机动态移动
-    camera.position.x = Math.sin(time * 0.3) * 3;
-    camera.position.y = Math.cos(time * 0.25) * 2;
-    camera.position.z = 15 + Math.sin(time * 0.1) * 1;
-    camera.lookAt(0, 0, 0);
-
-    // 粒子动画
-    const positions = particleSystem.geometry.attributes.position.array;
-    for (let i = 0; i < particleCount; i++) {
-      const i3 = i * 3;
-      positions[i3] += Math.sin(time + i) * 0.01;
-      positions[i3 + 1] += Math.cos(time + i) * 0.01;
-      positions[i3 + 2] += Math.sin(time * 0.5 + i) * 0.01;
+    if (Math.random() > 0.7) {
+      emojiElement.style.animation = randomEffect;
     }
-    particleSystem.geometry.attributes.position.needsUpdate = true;
-
-    renderer.render(scene, camera);
+    
+    currentIndex = (currentIndex + 1) % emojis.length;
   }
-
-  // 鼠标交互
-  const raycaster = new THREE.Raycaster();
-  const mouse = new THREE.Vector2();
-
-  function onMouseMove(event) {
-    const rect = canvas.getBoundingClientRect();
-    mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
-    mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
-
-    raycaster.setFromCamera(mouse, camera);
-    const intersects = raycaster.intersectObjects(spheres);
-
-    if (intersects.length > 0) {
-      const sprite = intersects[0].object;
-      sprite.scale.setScalar(1.5);
-      sprite.material.opacity = 1;
-      
-      // 显示技术信息
-      techName.textContent = `${sprite.userData.emoji} ${sprite.userData.name}`;
-      techDesc.textContent = `${sprite.userData.desc} | 熟练度: ${sprite.userData.level}%`;
-      info.style.opacity = 1;
-      info.style.transform = 'translateY(0)';
-    } else {
-      spheres.forEach(sprite => {
-        const scale = 1 + Math.sin(time * 1.5 + spheres.indexOf(sprite)) * 0.05;
-        sprite.scale.set(scale, scale, 1);
-        sprite.material.opacity = 0.9;
-      });
-      info.style.opacity = 0;
-      info.style.transform = 'translateY(-10px)';
-    }
-  }
-
-  canvas.addEventListener('mousemove', onMouseMove);
-
-  // 响应式
-  window.addEventListener('resize', () => {
-    camera.aspect = container.clientWidth / container.clientHeight;
-    camera.updateProjectionMatrix();
-    renderer.setSize(container.clientWidth, container.clientHeight);
-  });
-
-  animate();
+  
+  // 每3秒切换一次表情
+  setInterval(changeEmoji, 3000);
+  
+  // 初始表情
+  changeEmoji();
 })();
 </script>
 
 ---
 
-### 💻 技术栈与工具箱
-
-我对计算机的世界充满了无限的热情 🔥，尤其喜欢钻研和实践以下技术。以下是我的技术能力概览：
-
-<div style="text-align: center; margin: 20px 0;">
-  <div style="display: inline-block; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 10px 20px; border-radius: 25px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    🎯 全栈开发 | 🚀 6个完整项目 | ⚡ 持续学习中
-  </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shimu-ui&style=flat-square&color=6CF" alt="访问统计" />
+  <p>感谢你的访问！✨</p>
 </div>
-
-#### 🚀 后端技术
-* **编程语言**: 🐍 Python, ☕ Java, ⚙️ C, 🔷 C#, 🦀 Rust
-* **Web 框架**: 🟢 Node.js, ⚡ Express.js, 🍃 Spring Boot, 🌶️ Flask
-* **实时通信**: 🔌 Socket.IO, 📡 WebSocket
-* **数据库**: 🐘 PostgreSQL, 🍃 MongoDB, 🐬 MySQL
-
-#### 🎨 前端技术
-* **核心语言**: 🌐 HTML5, 📜 JavaScript (ES6+), 🎨 CSS3
-* **框架生态**: 💚 Vue.js, ⚛️ React, 🅰️ Angular
-* **移动开发**: 📱 微信小程序, 🔧 Vant Weapp, 🔄 uni-app
-* **构建工具**: 📦 Webpack, 🛠️ Vite, 🎯 Rollup
-
-#### ⛓️ 区块链技术
-* **智能合约**: 🔗 Solidity, 📜 Hardhat, 🧪 Truffle
-* **区块链平台**: ⛓️ Ethereum, 🏢 FISCO BCOS
-* **Web3 开发**: 🔌 Ethers.js, 🌐 Web3.js
-
-#### 🤖 AI & AR 技术
-* **人工智能**: 🤖 AI 客服, 🧠 机器学习
-* **增强现实**: 👁️ AR 导览, 🎯 AR 技术
-* **计算机视觉**: 📷 OpenCV, 🖼️ 图像处理
-* **新兴技术**: 🔮 前沿技术融合
-
-#### ☁️ 云服务与部署
-* **云平台**: ☁️ AWS, 🚀 Vercel, 🐳 Docker, ☁️ 阿里云
-* **数据库服务**: 🟢 Neon (PostgreSQL), 🍃 MongoDB Atlas, 🐬 MySQL
-* **存储服务**: 📁 Vercel Blob, 🪣 AWS S3, 🎥 阿里云视频点播
-
----
-
-### 🎨 设计、光影与旋律
-
-除了代码，我的生活还有这些色彩：
-
-* **设计 🖌️**: 喜欢琢磨用户界面 (UI) 和用户体验 (UX)，追求简洁与美感的平衡。相信好的设计能让技术更有温度。
-* **摄影 📸**: 用镜头捕捉生活中的美好瞬间，无论是壮丽风光还是日常小确幸。摄影教会了我如何用不同的角度看待世界。
-* **音乐 🎵**: 音乐是我的灵感源泉，从古典到流行，各种风格都有涉猎。在编码时，音乐总能帮我找到最佳的节奏。
-* **写作 ✍️**: 通过文字整理思绪，分享见闻，也希望通过写作与更多人交流。技术写作让我更深入地理解所学知识。
-
----
-
-### 🌟 我的项目
-
-这里是我最近在折腾的一些有趣项目 🚀：
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: white;">📝 个人博客系统</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.9;">🚀 基于 Node.js + Neon + Vercel 的全栈博客，支持动态内容管理和 🎭 Live2D 看板娘，让技术分享更有趣！</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(255,255,255,0.2); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: white;">🔗 区块链数字证书系统</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.9;">⛓️ 基于以太坊的模块化数字证书 DApp，采用 ERC-721 标准实现证书全生命周期管理。</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(255,255,255,0.2); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: white;">🌿 供应链溯源平台</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.9;">🏢 基于 FISCO BCOS 的企业级溯源平台，实现中药材从种植到物流的全流程透明化管理。</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(255,255,255,0.2); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: white;">🏮 文旅助农小程序</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.9;">🚀 融合区块链、AR、AI等前沿技术的微信小程序，实现农产品溯源、AR导览、AI客服等创新功能。</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(255,255,255,0.2); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: white;">🖥️ 屏幕共享系统</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.9;">🎬 基于 Python + Flask + Socket.IO 的多客户端屏幕共享解决方案，实现高性能实时图像传输。</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(255,255,255,0.2); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; color: #333; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h4 style="margin: 0 0 15px 0; color: #333;">🎓 在线教育平台</h4>
-<p style="margin: 0; font-size: 14px; opacity: 0.8;">📚 基于 Node.js + Vue.js + uni-app 的全栈教育平台，实现PC网站和移动App多端统一。</p>
-<div style="margin-top: 15px; padding: 5px 10px; background: rgba(0,0,0,0.1); border-radius: 10px; display: inline-block; font-size: 12px;">✅ 已完成</div>
-</div>
-
-</div>
-
-<div style="text-align: center; margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; color: white; box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-<h3 style="margin: 0 0 10px 0; color: white;">🚧 更多精彩项目正在开发中...</h3>
-<p style="margin: 0; opacity: 0.9;">敬请期待！✨</p>
-</div>
-
----
-
-### 📬 找到我 & 联系我
-
-你也可以在这些地方找到我，或者通过邮件与我联系 📞：
-
-* **GitHub**: [https://github.com/shimu-ui](https://github.com/shimu-ui) 🐙 (代码与开源项目)
-* **Bilibili**: [https://space.bilibili.com/3494375472499132](https://space.bilibili.com/3494375472499132) 📺 (或许会有视频内容？)
-* **Email**: [shimuui280@gmail.com](mailto:shimuui280@gmail.com) 📧
-
----
-
-### 🎯 未来规划
-
-* 深入学习 🦀 Rust 和系统编程
-* 探索 AI/ML 领域，特别是大语言模型的应用 🤖
-* 尝试更多有趣的技术栈和框架 🚀
-
----
-
-再次感谢你的来访，希望你在这里能有所收获！🚀 
-
-*"代码改变世界，技术连接未来"* ✨ 
