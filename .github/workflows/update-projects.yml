@@ -10,6 +10,11 @@ on:
       - 'scripts/update_projects.py'
       - '.github/workflows/update-projects.yml'
 
+# 添加权限配置
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   update-projects:
     runs-on: ubuntu-latest
@@ -17,6 +22,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
       
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -35,8 +43,8 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
         git add README.md
         git diff --quiet && git diff --staged --quiet || git commit -m "🤖 Auto-update featured projects"
         git push
