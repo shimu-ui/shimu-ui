@@ -166,15 +166,7 @@
 
 ---
 
-## 🏆 成就与荣誉
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shimu-ui&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4)
-
-</div>
-
----
 
 ## 🎯 精选项目
 
@@ -231,16 +223,43 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=tourism-miniprogram&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)](https://github.com/shimu-ui/tourism-miniprogram)
 
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=flat&logo=wechat&logoColor=white)
-![AR](https://img.shields.io/badge/AR技术-FF6B6B?style=flat&logo=unity&logoColor=white)
+![AR技术](https://img.shields.io/badge/AR技术-FF6B6B?style=flat&logo=unity&logoColor=white)
 
 🚀 融合区块链、AR、AI等前沿技术，助力乡村振兴
+
+</td>
+</tr>
+
+
+
+<tr>
+<td width="50%" align="center">
+
+**🚀 Popupguard**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=PopupGuard&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)](https://github.com/shimu-ui/PopupGuard)
+
+![AR技术](https://img.shields.io/badge/AR技术-FF6B6B?style=flat&logo=unity&logoColor=white)
+
+Windows 弹窗来源识别与一键治理
+
+</td>
+<td width="50%" align="center">
+
+**🚀 Screenshare Link Ss Link **
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=Screenshare-Link-SS-Link-&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)](https://github.com/shimu-ui/Screenshare-Link-SS-Link-)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AR技术](https://img.shields.io/badge/AR技术-FF6B6B?style=flat&logo=unity&logoColor=white)
+
+🖥️ 一个强大的多客户端屏幕共享解决方案
 
 </td>
 </tr>
 </table>
 
 ---
-
 ## 🌟 技能与专长
 
 <div align="center">
@@ -295,7 +314,7 @@ AI/ML        ████████████           60%
 
 <div align="center">
 
-### 🎯 2024年规划
+### 🎯 2025年规划
 
 </div>
 
@@ -316,15 +335,7 @@ graph LR
 
 ---
 
-## 📈 今年的贡献
 
-<div align="center">
-
-![Snake animation](https://github.com/shimu-ui/shimu-ui/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 📬 联系我
 
@@ -333,10 +344,10 @@ graph LR
 ### 🤝 让我们连接吧！
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimu-ui)
+[![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.shimuui.xyz/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3494375472499132)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shimuui280@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](#)
+[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/2503_90156600?spm=1010.2135.3001.5343)
 
 </div>
 
@@ -369,30 +380,23 @@ graph LR
 
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
+> *"🎭 程序员最讨厌康熙，因为康熙老是留胡子。"* 😄
 
 </div>
 
----
+---------
 
 ## 💡 每日一句
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> *"生命中最重要的两天，是你出生的那一天，和你弄清楚为何而生的那一天。"* ✨
 
 </div>
 
----
+------------------
 
-## 🔥 热门仓库
 
-<div align="center">
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=awesome-web3&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=ai-tools-collection&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)
-
-</div>
 
 ---
 
@@ -428,13 +432,10 @@ graph LR
 
 </div>
 
-<!-- 动态表情区域 - 使用GitHub支持的方式 -->
+<!-- 动态表情区域 -->
 <div align="center">
 
-## 🎭 今日心情
-
-<!-- 这里可以通过GitHub Actions定期更新 -->
-### 🚀 ✨ 💫 🌟 🔥 💻 🎨 ⚡
+![今日心情](https://tuchuang.voooe.cn/images/2025/08/30/angry-2498.gif)
 
 </div>
 
