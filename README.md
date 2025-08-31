@@ -257,6 +257,23 @@ Windows 弹窗来源识别与一键治理
 
 </td>
 </tr>
+<tr>
+<td width="50%" align="center">
+
+**🚀 Screenshare Link**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shimu-ui&repo=Screenshare-Link&theme=radical&hide_border=true&bg_color=0D1117&title_color=6CF&text_color=FFFFFF&icon_color=6CF)](https://github.com/shimu-ui/Screenshare-Link)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![AR技术](https://img.shields.io/badge/AR技术-FF6B6B?style=flat&logo=unity&logoColor=white)
+
+🖥️ 一个强大的多客户端屏幕共享解决方案
+
+</td>
+<td width="50%" align="center">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -380,21 +397,21 @@ graph LR
 
 <div align="center">
 
-> *"🎭 程序员最讨厌康熙，因为康熙老是留胡子。"* 😄
+> *"🎭 为什么程序员不喜欢户外活动？因为有太多的bug。"* 😄
 
 </div>
 
-------------
+---------------
 
 ## 💡 每日一句
 
 <div align="center">
 
-> *"生命中最重要的两天，是你出生的那一天，和你弄清楚为何而生的那一天。"* ✨
+> *"时尚是一种无法容忍的丑陋，以至于我们每六个月就得改变它一次。"* ✨
 
 </div>
 
----------------------
+------------------------
 
 
 
