@@ -1,15 +1,15 @@
 # 🌟 shimu-ui 的 GitHub 个人主页
 
 <div align="center">
-  
+  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6CF&center=true&vCenter=true&width=600&height=50&lines=你好%2C+世界!+🌝;我是+shimu-ui+🚀;全栈开发者+💻;区块链+%26+AI+爱好者+🔥;欢迎来到我的主页!+🌟)
 
 </div>
 
 <div align="center">
-  
+  
 ## 🎯 当前状态
-  
+  
 ![](https://img.shields.io/badge/状态-积极学习中-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/专注于-Web3+AI-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/位置-中国-red?style=for-the-badge)
@@ -21,20 +21,20 @@
 ## 🚀 关于我
 
 <div align="center">
-  
+  
 ### 🎨 一位充满激情的全栈开发者
 
 </div>
 
 > *"代码改变世界，技术连接未来"* ✨
 
-🔭 我是一个充满好奇心的**全栈开发者**，热衷于探索技术的前沿领域  
-🌱 专注于**区块链**、**人工智能**、**AR/VR**等新兴技术的融合应用  
-👯 喜欢参与开源项目，与全球开发者一起创造有意义的产品  
-⚡ 相信技术可以让世界变得更美好  
+🔭 我是一个充满好奇心的**全栈开发者**，热衷于探索技术的前沿领域  
+🌱 专注于**区块链**、**人工智能**、**AR/VR**等新兴技术的融合应用  
+👯 喜欢参与开源项目，与全球开发者一起创造有意义的产品  
+⚡ 相信技术可以让世界变得更美好  
 
 <div align="center">
-  
+  
 ![](https://img.shields.io/badge/全栈开发者-6CF?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/区块链开发者-6CF?style=for-the-badge&logo=ethereum&logoColor=white)
 ![](https://img.shields.io/badge/AI爱好者-6CF?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -49,92 +49,92 @@
 
 ### 🚀 后端技术
 
-* **编程语言**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-  
-* **Web 框架**: 
-  ![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-  ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-  
-* **实时通信**: 
-  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
-  ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
+* **编程语言**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+  
+* **Web 框架**: 
+  ![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![Spring%20Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+  
+* **实时通信**: 
+  ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+  ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
 
 ### 🎨 前端技术
 
-* **核心语言**: 
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  
-* **框架生态**: 
-  ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-  
-* **移动开发**: 
-  ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=flat&logo=wechat&logoColor=white)
-  ![Vant](https://img.shields.io/badge/Vant%20Weapp-1989FA?style=flat&logo=vantui&logoColor=white)
-  ![uni--app](https://img.shields.io/badge/uni--app-FF6B35?style=flat&logo=vue.js&logoColor=white)
-  
-* **构建工具**: 
-  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-  ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white)
+* **核心语言**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  
+* **框架生态**: 
+  ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  
+* **移动开发**: 
+  ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=flat&logo=wechat&logoColor=white)
+  ![Vant](https://img.shields.io/badge/Vant%20Weapp-1989FA?style=flat&logo=vantui&logoColor=white)
+  ![uni--app](https://img.shields.io/badge/uni--app-FF6B35?style=flat&logo=vue.js&logoColor=white)
+  
+* **构建工具**: 
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+  ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=white)
 
 ### ⛓️ 区块链技术
 
-* **智能合约**: 
-  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-  ![Hardhat](https://img.shields.io/badge/Hardhat-FF6B6B?style=flat&logo=hardhat&logoColor=white)
-  ![Truffle](https://img.shields.io/badge/Truffle-3FE0C5?style=flat&logo=truffle&logoColor=white)
-  
-* **区块链平台**: 
-  ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
-  ![FISCO%20BCOS](https://img.shields.io/badge/FISCO%20BCOS-000000?style=flat&logo=ethereum&logoColor=white)
-  
-* **Web3 开发**: 
-  ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+* **智能合约**: 
+  ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+  ![Hardhat](https://img.shields.io/badge/Hardhat-FF6B6B?style=flat&logo=hardhat&logoColor=white)
+  ![Truffle](https://img.shields.io/badge/Truffle-3FE0C5?style=flat&logo=truffle&logoColor=white)
+  
+* **区块链平台**: 
+  ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat&logo=ethereum&logoColor=white)
+  ![FISCO%20BCOS](https://img.shields.io/badge/FISCO%20BCOS-000000?style=flat&logo=ethereum&logoColor=white)
+  
+* **Web3 开发**: 
+  ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+  ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 
 ### 🤖 AI & AR 技术
 
-* **人工智能**: 
-  ![AI客服](https://img.shields.io/badge/AI客服-000000?style=flat&logo=openai&logoColor=white)
-  ![机器学习](https://img.shields.io/badge/机器学习-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-  
-* **增强现实**: 
-  ![AR导览](https://img.shields.io/badge/AR导览-5C3EE8?style=flat&logo=ar&logoColor=white)
-  ![AR技术](https://img.shields.io/badge/AR技术-5C3EE8?style=flat&logo=ar&logoColor=white)
-  
-* **计算机视觉**: 
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-  ![图像处理](https://img.shields.io/badge/图像处理-5C3EE8?style=flat&logo=opencv&logoColor=white)
+* **人工智能**: 
+  ![AI客服](https://img.shields.io/badge/AI客服-000000?style=flat&logo=openai&logoColor=white)
+  ![机器学习](https://img.shields.io/badge/机器学习-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  
+* **增强现实**: 
+  ![AR导览](https://img.shields.io/badge/AR导览-5C3EE8?style=flat&logo=ar&logoColor=white)
+  ![AR技术](https://img.shields.io/badge/AR技术-5C3EE8?style=flat&logo=ar&logoColor=white)
+  
+* **计算机视觉**: 
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  ![图像处理](https://img.shields.io/badge/图像处理-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ### ☁️ 云服务与部署
 
-* **云平台**: 
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
-  
-* **数据库服务**: 
-  ![Neon](https://img.shields.io/badge/Neon-3498DB?style=flat&logo=postgresql&logoColor=white)
-  ![MongoDB%20Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  
-* **存储服务**: 
-  ![Vercel%20Blob](https://img.shields.io/badge/Vercel%20Blob-000000?style=flat&logo=vercel&logoColor=white)
-  ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
-  ![阿里云视频点播](https://img.shields.io/badge/阿里云视频点播-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+* **云平台**: 
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![阿里云](https://img.shields.io/badge/阿里云-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
+  
+* **数据库服务**: 
+  ![Neon](https://img.shields.io/badge/Neon-3498DB?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB%20Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  
+* **存储服务**: 
+  ![Vercel%20Blob](https://img.shields.io/badge/Vercel%20Blob-000000?style=flat&logo=vercel&logoColor=white)
+  ![AWS%20S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat&logo=amazons3&logoColor=white)
+  ![阿里云视频点播](https://img.shields.io/badge/阿里云视频点播-FF6A00?style=flat&logo=alibabacloud&logoColor=white)
 
 </div>
 
@@ -291,13 +291,13 @@ Windows 弹窗来源识别与一键治理
 
 ### 📈 技能进度
 ```text
-JavaScript   ████████████████████   100%
-Node.js      ██████████████████     90%
-Vue.js       ██████████████████     90%
-Python       ████████████████       80%
-Solidity     ███████████████        75%
-React        ██████████████         70%
-AI/ML        ████████████           60%
+JavaScript   ████████████████████   100%
+Node.js      ██████████████████     90%
+Vue.js       ██████████████████     90%
+Python       ████████████████       80%
+Solidity     ███████████████        75%
+React        ██████████████         70%
+AI/ML        ████████████           60%
 ```
 
 </div>
@@ -344,10 +344,10 @@ AI/ML        ████████████           60%
 ### 🛣️ 长期愿景
 ```mermaid
 graph LR
-    A[现在] --> B[全栈专家]
-    B --> C[技术架构师]
-    C --> D[技术创业者]
-    D --> E[行业领袖]
+    A[现在] --> B[全栈专家]
+    B --> C[技术架构师]
+    C --> D[技术创业者]
+    D --> E[行业领袖]
 ```
 
 ---
@@ -457,8 +457,7 @@ graph LR
 </div>
 
 <!-- 隐藏的统计信息，用于SEO和搜索 -->
-<!-- 
+<!-- 
 关键词: shimu-ui, 全栈开发, 区块链, AI, Web3, 前端开发, 后端开发, JavaScript, Python, Vue.js, React, Node.js, Solidity
 技术栈: 全栈开发者, 区块链开发者, AI爱好者, Web3开发, DApp开发, 智能合约, 机器学习, 深度学习
 -->
-现在这是窝的github个人介绍页面md，你帮我修改为更合适的md
